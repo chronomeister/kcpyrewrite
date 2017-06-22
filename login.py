@@ -36,9 +36,6 @@ data = { \
 auth = s.post("https://www.dmm.com/my/-/login/auth/", data=data)
 # go to app page now.
 basegame = s.get('http://www.dmm.com/netgame/social/-/gadgets/=/app_id=854854/')
-f = open('./dump.txt', 'wb')
-f.write(basegame.content);
-f.close()
 viewerre = re.search('VIEWER_ID[^\d"]+([\d"]+)',basegame.text)
 viewid = viewerre.group(1)
 stre = re.search('(?: )+ST(?: )+(?:: )"([^\r\n"]+)',basegame.text)
@@ -88,4 +85,7 @@ data = { \
 main = s.post("http://osapi.dmm.com/gadgets/makeRequest", data=data)
 tokenre = re.search(r'\\"api_token\\":\\"([0-9a-f]+)',main.text)
 token = tokenre.group(1)
+f = open('./api.txt', 'w')
+f.write("http://" + servip + "/kcs/mainD2.swf?api_token=" + token);
+f.close()
 print("Your api link is : http://" + servip + "/kcs/mainD2.swf?api_token=" + token)
