@@ -1,0 +1,693 @@
+Mutsuki	1	snohitatusbk
+Kisaragi	2	wujywbyjntbp
+Nagatsuki	6	kksiqffpclxh
+Mikazuki	7	ujhxqqlcorxv
+Fubuki	9	gyckjmemgqoe
+Shirayuki	10	xqnkdultpvaf
+Miyuki	11	cdidanqovcfr
+Isonami	12	ljesxnctkmmf
+Ayanami	13	icpexclhwthr
+Shikinami	14	gcbiuhgmgjbm
+Akebono	15	fwptxiocqkyd
+Ushio	16	xqjemfzdbjox
+Kagerou	17	nkvvrszimkre
+Shiranui	18	louolngpmrwj
+Kuroshio	19	ihengpjwmfrt
+Yukikaze	20	pueufyccujmd
+Nagara	21	debsnofmttkx
+Isuzu	22	tcqsalkhzurk
+Yura	23	shjlydqjdfcl
+Ooi	24	yomyfjkhndny
+Kitakami	25	oxqlrctsmegi
+Fusou	26	ubntuiyurxwk
+Yamashiro	27	dyurkaeenkdh
+Satsuki	28	qvmfwjitflgw
+Fumizuki	29	pjkwpxniwgge
+Kikuzuki	30	jatvhskutlck
+Mochizuki	31	isiuepygxdzq
+Hatsuyuki	32	pxogwcltgjkn
+Murakumo	33	hpfcwdqxgyvl
+Akatsuki	34	mtvkfikepcfr
+Hibiki	35	nfzmalhtwved
+Ikazuchi	36	aejfywpsegbv
+Inazuma	37	uuilouoffjoj
+Hatsuharu	38	nlobofyxzvku
+Nenohi	39	zgerairddhko
+Wakaba	40	ihuijkvksqky
+Hatsushimo	41	qngptlxhrwhj
+Shiratsuyu	42	ahztpphnuvco
+Shigure	43	kclrmkyzpnpc
+Murasame	44	fhaelooubkbi
+Yuudachi	45	pnpixtolsebg
+Samidare	46	tyjrubumfpxy
+Suzukaze	47	qaryaychpubb
+Arare	48	oiknslickotp
+Kasumi	49	qukusrsftcgy
+Shimakaze	50	uffgxggsrtti
+Tenryuu	51	vswgjojfoqdc
+Tatsuta	52	qvqlfmytkmor
+Natori	53	bqwjdltjktls
+Sendai	54	nehcyhpiviue
+Jintsuu	55	icmlpbiditqy
+Naka	56	vopfxipptsrt
+Ooi Kai	57	gonohkjynpmb
+Kitakami Kai	58	jdqefjcpslli
+Furutaka	59	sfbwblstvfmw
+Kako	60	vkmjguonqcsg
+Aoba	61	bhyiqjjifflp
+Myoukou	62	grppcbegkphv
+Nachi	63	wnkageqzigwd
+Ashigara	64	opprvckvhrkv
+Haguro	65	lvfswfzywnql
+Takao	66	eqpvjbnbjlhy
+Atago	67	aqpnbsizhjij
+Maya	68	gpshoozxgutk
+Choukai	69	qmmdyeprdqsu
+Mogami	70	lcmobkdeizph
+Tone	71	kmcllyhenjnk
+Chikuma	72	gcqjowlpkbde
+Mogami Kai	73	ethdbrvnuznc
+Shouhou	74	qihrkkfwekpo
+Hiyou	75	sdiauxhgyfkj
+Ryuujou	76	iyondwbusgym
+Ise	77	skgpomqtcedb
+Kongou	78	oygjwmgvcdyv
+Haruna	79	vzgrqylbwegp
+Nagato	80	jnxoytktolbb
+Mutsu	81	jkjqeleyhbus
+Ise Kai	82	guwzhmxxnwol
+Akagi	83	uswetrxvttms
+Kaga	84	oeimwwkynzlt
+Kirishima	85	icwowutxbvgh
+Hiei	86	bxzhnjffdppv
+Hyuuga	87	cfqmhviykuup
+Hyuuga Kai	88	jprpbvbeillv
+Houshou	89	bwgbubdrhvfg
+Souryuu	90	nppdykjbwmkx
+Hiryuu	91	gobumojesgfi
+Junyou	92	ltdlvothcqnr
+Oboro	93	jqexjuembtvh
+Sazanami	94	lnarycubyzrr
+Asashio	95	eeyrwdehbixg
+Ooshio	96	svcuufdqcqmy
+Michishio	97	fhpgicaysllm
+Arashio	98	vksjkggcuvik
+Kuma	99	zrmviexnupjy
+Tama	100	jiftwdxqwtin
+Kiso	101	veulocbvzaqy
+Chitose	102	dkmxevqgbxmr
+Chiyoda	103	cayfwlehtvgj
+Chitose Kai	104	wvkpfygaipjq
+Chiyoda Kai	105	tsfbgfyeqxhg
+Chitose A	106	ttkeodhvrmog
+Chiyoda A	107	agybvcshxbpm
+Chitose Carrier	108	wlvvcpnulyer
+Chiyoda Carrier	109	rsmzverhwskc
+Shoukaku	110	pdricqoovxfe
+Zuikaku	111	suivtkpjnmpt
+Zuikaku Kai	112	ihwgeegenykh
+Kinu	113	rgribyhrzjjl
+Abukuma	114	sgwumdfgzais
+Yuubari	115	hieimxbtcqrt
+Zuihou	116	ktexichqewel
+Zuihou Kai	117	xmzltsferzto
+Ooi Kai Ni 	118	khtgrpfyurcm
+Kitakami Kai Ni 	119	cqtlanpwihpj
+Mikuma	120	oqqerytyeisg
+Mikuma Kai	121	yyvxfxdusxlx
+Maikaze	122	emjpbjscgcvf
+Kinugasa	123	tyumrhcigliq
+Suzuya	124	lvmlqrzbobpe
+Kumano	125	mlzpthwviwnf
+Imuya	126	wmzbyvhflrhy
+Goya	127	fqbwbmmdcjby
+Hacchan	128	zoaptkoerfpv
+Suzuya Kai	129	oyjqdsswurhl
+Kumano Kai	130	pcdygwofwfib
+Yamato	131	liqjxscjkogx
+Akigumo	132	khxsxmiuccsf
+Yuugumo	133	jtfihmyrvmiw
+Makigumo	134	piobwloefpcz
+Naganami	135	xwvykvklvvqk
+Yamato Kai	136	drdaipjrohfl
+Agano	137	ljzijyhhgrnx
+Noshiro	138	lpiecumljbyp
+Yahagi	139	hmivswfdmdem
+Sakawa	140	vrtbgpzuepqx
+Isuzu Kai Ni 	141	nnkmuxqyewyk
+Kinugasa Kai Ni 	142	ykrokmtrnaqw
+Musashi	143	ilxnmfogntbo
+Yuudachi Kai Ni 	144	lngqiqvigduj
+Shigure Kai Ni 	145	ogkwigciybxf
+Kiso Kai Ni 	146	gpfqngdreebe
+Bep	147	gmqsmiszmftf
+Musashi Kai	148	eqgvmdsvjerq
+Kongou Kai Ni 	149	wugwvdccggcp
+Hiei Kai Ni 	150	mhpalcnpxmgz
+Haruna Kai Ni 	151	ilxltdgucgbg
+Kirishima Kai Ni 	152	kspwuqsyhipy
+Taihou	153	ysidnchjxvfc
+Katori	154	jtyqmhgstese
+Shioi	155	hmiwrqvijwvv
+Taihou Kai	156	vsnkqdgtcjbs
+Ryuujou Kai Ni	157	mslkutojcolj
+Sendai Kai Ni 	158	qpnrcirsvqcr
+Jintsuu Kai Ni 	159	xyqotgpmnjih
+Naka Kai Ni 	160	lvjcqqulbluo
+Akitsumaru	161	nvnwjedsdgcl
+Kamoi	162	jqvoyyolpqgv
+Maruyu	163	joaeulumcgbh
+Yayoi	164	jnvcrrgmtvwl
+Uzuki	165	gjtvekieqatn
+Akitsumaru Kai	166	vxryfhvytcig
+Isokaze	167	bctrxdxrugqp
+Urakaze	168	cmupwurocdpn
+Tanikaze	169	gsrzkautnghc
+Hamakaze	170	rubtymuqfeuq
+Bisumaruku	171	ntmjjittqkcj
+Bisumaruku Kai	172	frkfpymtydmg
+Bismarck zwei	173	etxdlqnvwqtx
+Reberehito Masu	174	pvhdtbuddjhb
+Makusu Shurutsu	175	rxzrrkjqvyqy
+Purintsu Oigen	176	shcsmfegtxhf
+Purintsu Oigen Kai	177	cmmiahpwdamx
+Bismarck drei	178	twvnkvqgyiru
+Reberehito Masu	179	qgkjswznylty
+Makusu Shurutsu	180	utmejyqmcvbk
+Amatsukaze	181	fdpybckruodj
+Akashi	182	kynputhclcdl
+Ooyodo	183	uockopeurqdf
+Ryuuhou Kai	184	xumujwygrmby
+Ryuuhou	185	bfsrsnqivpms
+Tokitsukaze	186	dljghewzktat
+Akashi Kai	187	scobmrrdbmsw
+Tone Kai Ni 	188	rjggwwmmppth
+Chikuma Kai Ni 	189	ilnimhfcivpt
+Hatsukaze	190	rwqqgmxpdwbu
+Iku	191	jdsszkolhitg
+Nachi Kai Ni 	192	bpegnatlfibc
+Ashigara Kai Ni 	193	bxbyaifmqdxk
+Haguro Kai Ni 	194	ecwgnneuzbcv
+Ayanami Kai Ni 	195	tiqezicxwpry
+Hiryuu Kai Ni 	196	gbxvfsrqbyxg
+Souryuu Kai Ni 	197	mwlzgwdjlpxx
+Ooshio Kai Ni 	199	jqqkmitxodgw
+Abukuma Kai Ni 	200	qjkjyqhsvcpx
+Fubuki Kai	201	dufziinsornt
+Shirayuki Kai	202	kkpwecgmftci
+Hatsuyuki Kai	203	sejqtlkfjwkc
+Miyuki Kai	204	zlshfpystoqp
+Murakumo Kai	205	rmcvsljwdyur
+Isonami Kai	206	olkahitypycq
+Ayanami Kai	207	sgpilzypnejy
+Shikinami Kai	208	epjlpvhwcjvw
+Kongou Kai	209	fxypdctjnicq
+Hiei Kai	210	iatmdvvwlngq
+Haruna Kai	211	nolhhoujolpc
+Kirishima Kai	212	kexwyrcqjxfs
+Tenryuu Kai	213	wjcrloeyiyxw
+Tatsuta Kai	214	chmytqkkilrv
+Kuma Kai	215	mbgjkzlvemui
+Tama Kai	216	cxhxktltjtbg
+Kiso Kai	217	gjyqwffsmfgw
+Nagara Kai	218	jmpkkzqwgxtc
+Isuzu Kai	219	espxbipsjiyt
+Yura Kai	220	xtqbjysffsvx
+Natori Kai	221	aqgjvutybsbk
+Sendai Kai	222	zhixojcwijfj
+Jintsuu Kai	223	ncijtxixkghu
+Naka Kai	224	vxkcklmfevkk
+Kagerou Kai	225	ffyychaekjsj
+Shiranui Kai	226	algyyokhbnwz
+Kuroshio Kai	227	qsnkljxqtrgb
+Yukikaze Kai	228	avfbkpphumso
+Shimakaze Kai	229	cjhtlviffiwb
+Oboro Kai	230	sbdfpooechyn
+Akebono Kai	231	wnocckxgfmnh
+Sazanami Kai	232	xfxhmadcxfdq
+Ushio Kai	233	dpqjexkcixhw
+Akatsuki Kai	234	slzosqvxjxus
+Hibiki Kai	235	wpaqzeclspdr
+Ikazuchi Kai	236	eathbqlrqvda
+Inazuma Kai	237	bqvrrfdcuvdr
+Hatsuharu Kai	238	tedevipdbvdr
+Nenohi Kai	239	nkrmsykdohgo
+Wakaba Kai	240	tkcwrodgemlj
+Hatsushimo Kai	241	woutqrqtdzqi
+Shiratsuyu Kai	242	xcbmsjqrostq
+Shigure Kai	243	wmskekfmgdio
+Murasame Kai	244	wvnchfzhekfo
+Yuudachi Kai	245	wpsyznjwvlmd
+Samidare Kai	246	ofneitwqroxe
+Suzukaze Kai	247	jukighzxmudn
+Asashio Kai	248	xbbfxeemifpv
+Ooshio Kai	249	ngcxxfxovpmn
+Michishio Kai	250	eypcwtnjgoyb
+Arashio Kai	251	pmjnkqodgjpo
+Arare Kai	252	oxttbkywusfp
+Kasumi Kai	253	ohpnwjgzfesg
+Mutsuki Kai	254	pvomxydmldoi
+Kisaragi Kai	255	lwlmcwxyvcyz
+Satsuki Kai	256	ttcofyyswaum
+Fumizuki Kai	257	ysgtnamukxoi
+Nagatsuki Kai	258	wrxtfahvtyqi
+Kikuzuki Kai	259	zrrxemjrtmql
+Mikazuki Kai	260	sxrrihbkdkjl
+Mochizuki Kai	261	aufduiatycow
+Furutaka Kai	262	iolnrzaovbhn
+Kako Kai	263	qsmurjkprhku
+Aoba Kai	264	udkkmzgsimgq
+Myoukou Kai	265	fcydxtnwtaon
+Nachi Kai	266	nvftqenyroyu
+Ashigara Kai	267	bekjyovmrmfd
+Haguro Kai	268	uilfcyypnbwm
+Takao Kai	269	ghgphbvmzjrx
+Atago Kai	270	gbkqnzirjyid
+Maya Kai	271	ajhdojqfykfu
+Choukai Kai	272	nsgytjsjbfdp
+Tone Kai	273	fkatobgcyygb
+Chikuma Kai	274	paqnehcojygu
+Nagato Kai	275	szgthkexanxl
+Mutsu Kai	276	hujriolkmhzy
+Akagi Kai	277	gtmwrbaniaud
+Kaga Kai	278	uuqdlbtrkmvk
+Souryuu Kai	279	mxohelwcpocv
+Hiryuu Kai	280	kftqxfempust
+Ryuujou Kai	281	wvcpwlwuxwhq
+Shouhou Kai	282	numjsnomjspr
+Hiyou Kai	283	yiwwnppitqpf
+Junyou Kai	284	pwokyefpmqwi
+Houshou Kai	285	xjotoxrgwfrj
+Fusou Kai	286	mnkjkgammeds
+Yamashiro Kai	287	bnbdxfioqxtt
+Shoukaku Kai	288	vcftaofxkvgk
+Kinu Kai	289	ikwmknqjpvkg
+Abukuma Kai	290	uuxoixtoemiv
+Chitose Carrier Kai	291	ufcqfujavyyg
+Chiyoda Carrier Kai	292	hgitzuyaysvw
+Yuubari Kai	293	hfhcjjdyqyzn
+Maikaze Kai	294	ssvrjquubpim
+Kinugasa Kai	295	qgkmjgfbanxl
+Chitose Kai Ni 	296	kavryopoywwx
+Chiyoda Kai Ni 	297	jhefpwucyxiq
+Hatsukaze Kai	300	ukwcjqlolezy
+Akigumo Kai	301	ijhrnvnbqkmj
+Yuugumo Kai	302	bbgkikxppksy
+Makigumo Kai	303	gekgxdsvrliq
+Naganami Kai	304	lovstgcfspwr
+Agano Kai	305	cmpqwemjahur
+Noshiro Kai	306	hvnqlrdovfqe
+Yahagi Kai	307	acajrnrqxplq
+Yayoi Kai	308	ozjrctjajnpx
+Uzuki Kai	309	xwjlobdutrwv
+Reberehito Masu Kai	310	vbuxfozqoemo
+Makusu Shurutsu Kai	311	vksfcnchqurh
+Hamakaze Kai	312	ojkgkujsenly
+Tanikaze Kai	313	jdyqtxzmsyng
+Sakawa Kai	314	kbdewgsfrkra
+Amatsukaze Kai	316	cpcycglgelxd
+Urakaze Kai	317	exedxncqauws
+Taigei Ryuuhou Kai	318	rjtnzguullvo
+Myoukou Kai Ni 	319	kadfixosusrf
+Isokaze Kai	320	dyupugfxshtd
+Ooyodo Kai	321	gixbrtnuabge
+Tokitsukaze Kai	322	svglgiwjfyxn
+Harusame Kai	323	cispmgxqaedk
+Hayashimo Kai	324	uvfgjekdjlcw
+Kiyoshimo Kai	325	xomrbwrvjwfv
+Hatsuharu Kai Ni 	326	xoiprnaxqxbj
+Asagumo Kai	327	vdieczinfgce
+Yamagumo Kai	328	pyfdxrfqwldn
+Nowaki Kai	329	qegrehgswrpg
+Akizuki Kai	330	tubwmcjwtlqx
+Amagi	331	gmlbignzjwmq
+Katsuragi	332	fgyvwqymkekn
+Yu Ro Kai	334	dfrmfmjvschh
+Katori Kai	343	kexcbmpnmmwv
+Asashimo Kai	344	jozbiyweyksl
+Takanami Kai	345	ydsbnsiogwij
+Teruzuki Kai	346	urpnkwaneqfb
+Ribechio Kai	347	rgfuelwdntub
+Mizuho Kai	348	ycgllqsxwdgy
+Fuuun Kai	349	gykqxdkfpzih
+Umikaze Kai	350	djszrxlnhbuv
+Kawakaze Kai	351	litugbpkilsf
+Hayasui Kai	352	niuenzxpukjq
+Gurafu Tsuperin Kai	353	uljlkucfqqcc
+Arashi Kai	354	stvkbeqhwmmj
+Hagikaze Kai	355	vbqucvbohcex
+Kashima Kai	356	grgeljjshnfk
+Hatsuzuki Kai	357	wwuwxxrkzxex
+Zara Kai	358	waviopoxryme
+Okinami Kai	359	higuuqsbfkvb
+Aiowa Kai	360	nwntjkczdexl
+Pora Kai	361	btfmqyxunhkj
+Oyashio Kai	362	fkrtllluordb
+Harukaze Kai	363	ihdaromldkrr
+Usupaito Kai	364	bwsoozmjkbde
+Akura Kai	365	ywgeborrihwb
+Minazuki Kai	366	mnqveismubcz
+Nimu Kai	367	whdxgwhsflxf
+Uranami Kai	368	uvihthcdkhof
+Yamakaze Kai	369	qfyztscquxza
+Asakaze Kai	370	sfhznwdwstgj
+Matsukaze Kai	371	bzigjflbyxbe
+Commandant Teste Kai	372	wgyatqtsrghn
+Fujinami Kai	373	kbnitqplofhm
+I-13 Kai	374	hmjwmfpdcuur
+I-14 Kai	375	fhcabilueqsn
+Shimushu Kai	376	vtnbtspwclng
+Kunashiri Kai	377	qvjugtvdmppy
+Taiyou Kai	380	gjdwbkyoqrwv
+Etorofu Kai	383	glvwrolqeexv
+Imuya Kai	398	dyfnguymthbd
+Goya Kai	399	hosmgvuzyjlw
+Hacchan Kai	400	fggcskrfkpnr
+Iku Kai	401	jwrlielrnfpr
+Maruyu Kai	402	nrdgjqcgecmg
+Shioi Kai	403	tuvoqtqrddem
+Unryuu	404	xgoisifuerjd
+Harusame	405	dbtrdgatxdpl
+Unryuu Kai	406	rqsbaiaqlunp
+Ushio Kai Ni 	407	fsgwccpesgfh
+Junyou Kai Ni 	408	yyyfqcpumpxj
+Hayashimo	409	kgwxvcnblfjb
+Kiyoshimo	410	gdbwncyaopob
+Fusou Kai Ni 	411	gmnsxwkdssmj
+Yamashiro Kai Ni 	412	xjsgvmgfleuu
+Asagumo	413	xjtxwkwwfdze
+Yamagumo	414	xthvimkarzgq
+Nowaki	415	skmmrmdljugc
+Furutaka Kai Ni 	416	vqdgxtrgintc
+Kako Kai Ni 	417	riiwaegupstv
+Satsuki Kai Ni 	418	uhbkffblgplp
+Hatsushimo Kai Ni 	419	ufgydlyjdaxb
+Murakumo Kai Ni 	420	ugxgvgtjsxud
+Akizuki	421	wkvdcpaogfii
+Teruzuki	422	fvcfdjvmxlko
+Hatsuzuki	423	uscckqoguchc
+Takanami	424	hvxoppojkyge
+Asashimo	425	cdsgjcufyxlz
+Fubuki Kai Ni 	426	rtkekdbkqrkg
+Choukai Kai Ni 	427	jcrdsdpsjcgj
+Maya Kai Ni 	428	xljtrrmemnon
+Amagi Kai	429	zgscfjpbxnir
+Katsuragi Kai	430	bohmlbbvqtfs
+Yu Ro	431	ksvosfducgbe
+Gurafu Tsuperin	432	tepoqqczfonx
+Saratoga	433	qtuuhjmqmvfh
+Mutsuki Kai Ni 	434	idhoawqrgkqh
+Kisaragi Kai Ni 	435	ygqdfllpkbee
+Ro 500	436	wnibjvejengh
+Akatsuki Kai Ni 	437	gzerqivthcrd
+Saratoga Kai	438	wmebertagnxm
+Usupaito	439	lnltescodihe
+Aiowa	440	tgknyzwyexxt
+Ritorio	441	hkhkiqkleprp
+Roma	442	gyywcqqfnjkc
+Ribechio	443	nsutzbtifaji
+Akura	444	beymvxmvhoct
+Akitsushima	445	oswtwcbzgbfm
+Italia	446	feyfhhruhjse
+Roma Kai	447	yfpnftpuwkrx
+Zara	448	spmuptretooz
+Pora	449	zbwwxnwyxhps
+Akitsushima Kai	450	wwqmolrsxfvz
+Mizuho	451	zqwwomufsbpq
+Okinami	452	xxnlcxflgfji
+Fuuun	453	xooelfidumnp
+Arashi	454	nguivbnbevwd
+Hagikaze	455	xxbsgzxwjqxh
+Oyashio	456	dvcslbfkmdsy
+Yamakaze	457	tvieoobotato
+Umikaze	458	rnmsjjndxlgj
+Kawakaze	459	jdpiljspxgpz
+Hayasui	460	ajggcaaaocgh
+Shoukaku Kai Ni 	461	hpxsthymxmki
+Zuikaku Kai Ni 	462	giytrybpknos
+Asashio Kai Ni 	463	grmdtyheocuc
+Kasumi Kai Ni 	464	mqlroxfnufpz
+Kashima	465	nwiyrjfnqvux
+Shoukaku Kai Ni A	466	ekuxnovhattm
+Zuikaku Kai Ni A	467	qgrxbhuvtrbf
+Asashio Kai Ni D	468	schftfqkstxa
+Kawakaze Kai Ni 	469	rwrhhyeloenn
+Kasumi Kai Ni B	470	vxrvwfxhlbag
+Kamikaze	471	xqqqhgvzjuae
+Asakaze	472	fmsaumjkejlm
+Harukaze	473	gfogtnmgovlq
+Matsukaze	474	uesladlyqrru
+Kamikaze Kai	476	osxrcrtldvru
+Minazuki	481	xzuthqfclfmp
+Nimu	483	qrubiqfijtfp
+Fujinami	485	hskuxickjvmq
+Uranami	486	qhphdxqmvzbq
+Kinu Kai Ni 	487	glyidgppuqgp
+Arashio Kai Ni	490	hrkuspdmjtmd
+Commandant Teste	491	ighfxhygboim
+I-13	494	sfficpxrcodd
+I-14	495	umpejcgdjwrp
+Zara due	496	jprnkicueltw
+Kamoi Kai	499	tuzyehskgaup
+Kamoi Kai Bo	500	mxltvkpyuklh
+Suzuya Kai Ni	503	zkiopeqgwlog
+Suzuya Kou Kai Ni	508	kkloilykwado
+Gangut	511	cqcrtbwortoi
+Oktyabrskaya Revolyutsiya	512	famtkxknboyg
+Gangut dva	513	rnuehhgtsiay
+Shimushu	517	mztdruitgisb
+Kunashiri	518	duclkhpiwzon
+Kasuga Maru	521	ycfrigxehfwt
+Etorofu	524	lupcrslexuxo
+Taiyou	526	gvryjheydxtt
+Taiyou Kai Ni	529	biuzgypssrhi
+Nagato Kai Ni	541	kjmmeaxfbmhx
+Destroyer I-class	1501	mtjmdcwtvhdr
+Destroyer Ro-class	1502	pbgkfylkbjuy
+Destroyer Ha-class	1503	pcumlrymlujh
+Destroyer Ni-class	1504	itbrdpdbkynm
+Light Cruiser Ho-class	1505	itslcqtmrxtf
+Light Cruiser He-class	1506	wuhnhojjxmke
+Light Cruiser To-class	1507	xlqcmisdyfiu
+Torpedo Cruiser Chi-class	1508	mcouotbbbzpx
+Heavy Cruiser Ri-class	1509	iwztvmesrrju
+Light Carrier Nu-class	1510	slxvncxmexin
+Battleship Ru-class	1511	pijdvoaebmxm
+Aircraft Carrier Wo-class	1512	yalxvbxgbojg
+Transport Ship Wa-class	1513	mednanfcfkil
+Destroyer I-class	1514	eusutfvohllh
+Destroyer Ro-class	1515	tizkiyetefqx
+Destroyer Ha-class	1516	ycjcuuqbxywj
+Destroyer Ni-class	1517	zujcpyhiwhfk
+Light Cruiser Ho-class	1518	nylazbctwxxb
+Light Cruiser He-class	1519	thxxajqkbcea
+Light Cruiser To-class	1520	vxeposgfnulm
+Torpedo Cruiser Chi-class	1521	kkdcshdnoqvd
+Heavy Cruiser Ri-class	1522	jgdkktwkyoep
+Light Carrier Nu-class	1523	glsvfugrtdlv
+Battleship Ru-class	1524	jnaynrbswxny
+Aircraft Carrier Wo-class	1525	lreivfnxjfik
+Transport Ship Wa-class	1526	nfbfnyqdswvz
+Heavy Cruiser Ri-class	1527	cdgslqaonpst
+Aircraft Carrier Wo-class	1528	kcjagtsviiyn
+Battleship Ru-class	1529	crlyrpscrtad
+Submarine Ka-class	1530	zsrtdiesnmum
+Submarine Yo-class	1531	jyofolfguclj
+Submarine Ka-class	1532	ebutrlbzkktc
+Submarine Yo-class	1533	ppdicscudnmo
+Submarine Ka-class	1534	duwuexijckgq
+Submarine Yo-class	1535	nvaipajbkgjn
+Floating Fotress	1536	cchowgdxysfu
+Floating Fotress	1537	matbibgdovof
+Floating Fotress	1538	murfwykjiuog
+Anchorage Deom	1539	cyfiwlhsgdji
+Anchorage Princess	1540	vewvgeiqybub
+Battleship Ta-class	1541	mqzxufdjdjju
+Battleship Ta-class	1542	whhduavjmdki
+Battleship Ta-class	1543	zpzqybyepyte
+Armored Carrier Demon	1544	jndnkhfjvnjo
+Armored Carrier Princess	1545	pnvdeewbfyfh
+Southern Demon	1546	jcgarujexcrf
+Southern War Demon	1547	jmlbqlrnajyq
+Southern War Princess	1548	vooogzpoblwf
+Escort Fortress	1549	bwlykdyyjurx
+Escort Fortress	1550	fhjnljxxjpmk
+Escort Fortress	1551	nmwnyjyfezro
+Destroyer Ro-class	1552	szdhvxpyljqe
+Destroyer Ha-class	1553	jhjcroxdngqe
+Light Cruiser Ho-class	1554	afrplxszsxit
+Light Cruiser He-class	1555	eswghzpycwxb
+Airfield Princess	1556	qtygozpoceew
+Battleship Princess	1557	glghkfswtxet
+Transport Ship Wa-class	1558	okkjcahxfltg
+Torpedo Cruiser Chi-class	1559	cojscoppbivn
+Light Carrier Nu-class	1560	pcmfcidohwga
+Battleship Re-class	1561	tkcshwnsnsqr
+Battleship Re-class	1562	yrdhekgqgxtg
+Destroyer I-class	1564	skifghbnovxl
+Aircraft Carrier Wo-class Kai	1565	ckbtgxrnjvof
+Heavy Cruiser Ri-Class Kai	1566	lfpzrcpfngkf
+Battleship Ru-Class Kai	1567	qyfevgdqedyw
+Sumbmarine So-class	1570	qfwkvipzxqey
+Sumbmarine So-class	1571	gnnicfxddgut
+Sumbmarine So-class	1572	obxvexpgyajg
+Harbour Princess	1573	mvqfkxbebqob
+Isolated Island Demon	1574	ihfrerqprpro
+Destroyer I-class Late Model	1575	dsdrpxrroksm
+Destroyer Ro-class Late Model	1576	wnftypfgkdkr
+Destroyer Ha-class Late Model	1577	icwosohxkvbd
+Destroyer Ni-class Late Model	1578	ohcikvnwgsuh
+Aircraft Carrier Wo-class	1579	lhdxfbtoyfer
+Northern Princess	1581	lwrljvbgvkxe
+Northern Princess	1582	rgjwnwdygctr
+Midway Princess	1583	naucyhpcdjwf
+Midway Princess	1584	fcaeosgyrckf
+Aircraft Carrier Demon	1585	kvllndxefqyr
+Aircraft Carrier Princess	1586	eoaivzseqtwo
+Northern Princess	1587	bcvjduazbvue
+Northern Princess	1588	jtokvqdkiidv
+Northern Princess	1589	yqxjpfvbrghk
+Northern Princess	1590	xsjvtttdqhwy
+Light Cruiser Tsu-class	1591	vwaghxaewzdw
+Light Cruiser Tsu-class	1592	ypbbvxgczbph
+Heavy Cruiser Ne-class	1594	yowvcxyrqiqe
+Heavy Cruiser Ne-class	1595	aaklgdwughjy
+Destroyer Princess	1597	xdcuopswoflo
+Destroyer Princess	1598	ogjyulhxjvhr
+Aircraft Carrier Water Demon	1599	zkkzcjehulfi
+Aircraft Carrier Water Demon	1600	ptotvjxlwqgh
+Light Cruiser Demon	1601	dpmgoqtslers
+Light Cruiser Demon	1602	jzweeqxgragj
+Battleship Water Demon	1603	iepccppipopa
+Battleship Water Demon	1604	srqsizwuyvfm
+Harbour Demon	1605	jnwpsrxekmbn
+Harbour Demon	1606	clqoqbjfvidf
+Harbour Demon	1607	ysteufhuvuuk
+Harbour Demon	1608	octsmbzvtknp
+Anchorage Water Demon	1609	qvjxstjsucxx
+Anchorage Water Demon	1610	vjgqyiisflxo
+Anchorage Water Demon	1611	yqbbctkwbtgd
+Anchorage Water Demon	1612	iinthvbcxohn
+Harbour Princess	1613	fwbonbofgcwe
+Aircraft Carrier Wo-class	1614	xwkafpsvohsx
+Aircraft Carrier Wo-class	1615	swtqydoaxery
+Aircraft Carrier Wo-class Kai	1616	kevftdefeysm
+Aircraft Carrier Wo-class Kai	1617	oclehydqqwtr
+Aircraft Carrier Wo-class Kai	1618	whfpobwysexc
+Aircraft Carrier Demon	1619	wnnfthmvobbc
+Aircraft Carrier Princess	1620	mowniqrfpjjw
+Destroyer I-class Late Model	1621	mhgomfxjbdqg
+Destroyer Ro-class Late Model	1622	oevqngeqykfc
+Destroyer Ha-class Late Model	1623	hzegzqgicqnv
+Destroyer Ni-class Late Model	1624	mqboqqeinwaj
+Seaplane Tender Princess	1625	wlmwstevvrwv
+Seaplane Tender Princess	1626	yjylvwiustlg
+Seaplane Tender Princess	1627	bxslnscoclqv
+Air Defense Princess	1628	qyzjmmmamvqv
+Air Defense Princess	1629	cvhmavgxsrbr
+Air Defense Princess	1630	mxftnbimpfud
+Airfield Princess	1631	oequjjnzhgcw
+Airfield Princess	1632	jdpebtsbhupn
+Airfield Princess	1633	ozdxnvurmoyg
+Isolated Island Demon	1634	oesmuxjcpwsl
+Isolated Island Demon	1635	lxkovqjiqcue
+Isolated Island Demon	1636	idborkfjzpjt
+PT Imp Pack	1637	bqucqmrihwuh
+PT Imp Pack	1638	dsstfcxfwiui
+PT Imp Pack	1639	nmxeowqlleay
+PT Imp Pack	1640	ldsiznnfxhsi
+Light Cruiser Princess	1641	ovecdselmpus
+Light Cruiser Princess	1642	disbkhsrvdyz
+Light Cruiser Princess	1643	zpgkgrqnfbgw
+Submarine Princess	1644	xqhnwnncqfsb
+Submarine Princess	1645	iunhutnvrvpw
+Submarine Princess	1646	ydnymnspgijb
+Destroyer Water Demon	1647	ebsfauvzpldv
+Destroyer Water Demon	1648	fhpklciryypc
+Destroyer Water Demon	1649	vbihybmotyce
+Airfield Princess	1650	dkflqbdjybjg
+Airfield Princess	1651	sbyuekbnrkqx
+Airfield Princess	1652	zcwobzfzxiyy
+Supply Depot Princess	1653	vjfwzgyvwpgj
+Supply Depot Princess	1654	mtxsjkkogurq
+Supply Depot Princess	1655	lyusgthzqfbl
+Supply Depot Princess Damaged	1656	egntjluhujmg
+Supply Depot Princess Damaged	1657	jtghojbhjqmj
+Supply Depot Princess Damaged	1658	bbidlihblgfn
+Heavy Cruiser Princess	1659	okiqblvpbiub
+Heavy Cruiser Princess	1660	yddbfuyzglgv
+Heavy Cruiser Princess	1661	qmotqofrwgkn
+Heavy Cruiser Princess	1662	egdjvusxgjbl
+Heavy Cruiser Princess	1663	jhvprgftpnoo
+Heavy Cruiser Princess	1664	tmpsstswydna
+Artillery Imp	1665	dbrykiabguuf
+Artillery Imp	1666	itjiuexoqiqf
+Artillery Imp	1667	msytkifdiujd
+Isolated Island Princess	1668	hheigemwcgvd
+Isolated Island Princess	1669	pgisghlqpxtg
+Isolated Island Princess	1670	kdigvwjnuoqv
+Isolated Island Princess	1671	udoquyvqlmjc
+Isolated Island Princess	1672	lsepmduhwvzv
+Destroyer Ancient Demon	1673	cakewlpdimrn
+Destroyer Ancient Demon	1674	mfnlrstsevxp
+Destroyer Ancient Demon	1675	mdrzrskmlacb
+Destroyer Water Demon	1676	lfgrfbnoxhyc
+Destroyer Water Demon	1677	trephayebrdi
+Destroyer Water Demon	1678	tbsrjrcfjcrc
+Lycoris Princess Damaged	1679	vorsdkkbcfev
+Lycoris Princess Damaged	1680	sliuppskbcca
+Lycoris Princess Damaged	1681	fsbsokcwqvwe
+Lycoris Princess Damaged	1682	xyzvbankjlhc
+Lycoris Princess Damaged	1683	nqeejeqyjaqp
+Central Princess	1684	xkpnaqtugdvc
+Central Princess	1685	cxuieixnfqdr
+Central Princess	1686	rnocihovjlkp
+Central Princess Damaged	1687	jtyrbgdfotsq
+Central Princess Damaged	1688	aikqcifzwmbw
+Central Princess Damaged	1689	lijnvspqdxdx
+Destroyer Ancient Princess	1690	epbvwfwkuswz
+Destroyer Ancient Princess	1691	nmddwhexdwuq
+Destroyer Ancient Princess	1692	eokfqzxmnlrl
+Sumbarine Summer Princess	1693	ndzqluoczwnc
+Sumbarine Summer Princess	1694	pgcstungigys
+Sumbarine Summer Princess	1695	jsbjbbfougrj
+Battleship Summer Princess	1696	vwolviayxpbv
+Battleship Summer Princess	1697	tvdifblusvdr
+Battleship Summer Princess	1698	qsvtejqqwgaq
+Harbour Summer Princess	1699	nphstqdspthz
+Harbour Summer Princess	1700	rgyzcftlftqn
+Harbour Summer Princess	1701	ahllnddeknal
+Harbour Summer Princess Damaged	1702	asmapjrgrdrt
+Harbour Summer Princess Damaged	1703	vosqpkwkttvv
+Harbour Summer Princess Damaged	1704	quapxtvdpbie
+Heavy Cruiser Summer Princess	1705	fkycdytrlsoi
+Heavy Cruiser Summer Princess	1706	vypyuolwdpvk
+Heavy Cruiser Summer Princess	1707	lfkukwtsuruo
+Seaplane Tender Water Princess	1708	wakhgkznssbr
+Seaplane Tender Water Princess	1709	onwowtuekpjn
+Seaplane Tender Water Princess	1710	koyguaurwprc
+Abyssal Jellyfish Princess	1711	slqhgxidlkwx
+Abyssal Jellyfish Princess	1712	wpakfsjikjdg
+Abyssal Jellyfish Princess	1713	qdrobavpfofp
+Aircraft Carrier Wo-class Kai	1714	gwptvxbbxkqp
+Aircraft Carrier Wo-class Kai	1715	hjdgjoifrubd
+Abyssal Twin Princess	1716	hnyleqioqwbg
+Abyssal Twin Princess	1717	eyavbkujyhgg
+Abyssal Twin Princess	1718	elutjwomljhb
+Abyssal Twin Princesses Damaged	1719	zjpejeuzugmm
+Abyssal Twin Princesses Damaged	1720	axsfthjltgqj
+Abyssal Twin Princesses Damaged	1721	cbxpmvwybotl
+Escort Princess	1722	rjtsxtdwvebj
+Escort Princess	1723	cstdjqyyrhlg
+Escort Princess	1724	qajlkxkhicly
+Northernmost Landing Princess	1725	jxhrosyjovuu
+Northernmost Landing Princess	1726	skergdfltpys
+Northernmost Landing Princess	1727	tnrlvlmispab
+Northern Water Princess	1728	tesgqiylklvi
+Northern Water Princess	1729	ljvghewcyvwd
+Northern Water Princess	1730	escjjqybirkn
+Northern Water Princess Damaged	1731	tywdhadjqwzs
+Northern Water Princess Damaged	1732	eyjejtqhefjn
+Northern Water Princess Damaged	1733	sutsfoetiofu
+Light Carrier Nu-class Kai	1734	jlfigkjvghnl
+Light Carrier Nu-class Kai	1735	laqatdmlfwcb

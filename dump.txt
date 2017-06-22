@@ -1,0 +1,697 @@
+<!DOCTYPE html>
+<html lang="ja" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<title>DMM.com ログイン - DMM.com</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" >
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" >
+<meta http-equiv="content-style-type" content="text/css" >
+<meta http-equiv="content-script-type" content="text/javascript" >
+<meta name="application-name" content="DMM.com" >
+<meta name="msapplication-tooltip" content="DVDレンタル、通販、動画配信、FX等の総合サイト" >
+<meta name="msapplication-starturl" content="/" >
+<meta name="msapplication-window" content="width=1280;height=1024" >
+<meta name="msapplication-navbutton-color" content="#222222" >
+<meta name="msapplication-task" content="name=動画サービス;action-uri=/digital/;icon-uri=https://www.dmm.com/images/common/pinned/task.ico" >
+<meta name="msapplication-task" content="name=DVD/CDレンタルサービス;action-uri=/rental/;icon-uri=https://www.dmm.com/images/common/pinned/task.ico" >
+<meta name="msapplication-task" content="name=通販サービス;action-uri=/mono/;icon-uri=https://www.dmm.com/images/common/pinned/task.ico" >
+<meta name="Slurp" content="NOYDIR" >
+<!--[if lt IE 9]><script type="text/javascript" charset="utf-8" src="/js/common/html5shiv.js"></script><![endif]-->
+<!--[if gte IE 9]> <link href="https://www.dmm.com/images/common/pinned/general/favicon.ico" rel="shortcut icon" ><![endif]-->
+<link href="/css/my.css?1484273009" media="screen" rel="stylesheet" type="text/css" >
+<link href="/css/base.css?1493014828" media="screen" rel="stylesheet" type="text/css" >
+<link href="/css/login.css?1454379072" media="screen" rel="stylesheet" type="text/css" >
+<link href="https://www.dmm.com/images/general/apple-touch-icon.png" rel="apple-touch-icon" >
+<link href="https://www.dmm.com/images/general/apple-touch-icon.png" rel="apple-touch-icon-precomposed" >
+<link href="https://www.dmm.com/images/general/apple-touch-icon.png" rel="apple-touch-icon" >
+<link href="https://www.dmm.com/images/general/apple-touch-icon.png" rel="apple-touch-icon-precomposed" >
+<script type="text/javascript" src="/js/library/jquery_1_8_3/jquery-1.8.3.min.js?1358679782"></script>
+<script type="text/javascript" src="/js/bugfix.js?1421734015"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js?1306488106"></script>
+<script type="text/javascript" src="/js/localize_welcome.js?1461295258"></script>
+<script type="text/javascript" src="/js/common/set_tracking.js?1463477665"></script>
+
+
+<script src="/js/s_code_dummy.js"></script>
+<script src="/js/mbox.js"></script><script>
+  var _gaq = _gaq || [];
+  _gaq.push(
+    ['_setAccount', 'UA-31336-1'],
+    ['_setDomainName', '.dmm.com'],
+    ['_setCampaignCookieTimeout', 2592000000],
+    ['_trackPageview', '/my/-/login']
+  );
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+<script type="text/javascript"><!--
+(function() {
+if (!window['Marketing']) { window.Marketing = {}; }
+var j={"host":"www.dmm.com","device":"pc"};
+window.Marketing.Gateway = { getParam: function(k) { if (!k) { return j; } return j[k]; } };
+})();
+window.dataLayer = window.dataLayer || [];
+dataLayer.push({"dtm":{"viewLayout":"pc","isForeign":0}});
+--></script>
+<script src="//www.dmm.com/js/marketing/conf.js"></script>
+
+</head>
+
+<body name="dmm_main">
+
+<script src="/js/marketing/gtm.js"></script>
+<!--[if IE 7]><div id="d-ie7"><![endif]-->
+
+<div id="translate_welcome_div"></div>
+<script type="text/javascript">
+  document.getElementById('translate_welcome_div').setAttribute('id', 'welcome');
+</script>
+
+
+<!--[if IE 7]><div class="d-hd-ie7"><![endif]--><!--[if IE 8]><div class="d-hd-ie8"><![endif]--><!--[if IE 9]><div class="d-hd-ie9"><![endif]-->
+<div id="d-header" class="hd-deviceDefault">
+<!-- i3-tag -->
+<input id="i3_opnd" name="i3_opnd" type="hidden" value="">
+<input id="i3_vwtp" name="i3_vwtp" type="hidden" value="pc">
+<!-- /i3-tag -->
+<script>
+// i3 tracking code
+!function(a,b,c,d,e,f,g,h,i,j,k){g="DMMi3Object",h=a[g],a[g]=e,h&&(a[e]=a[h]),
+a[e]=a[e]||function(){i=arguments[arguments.length-1],"function"==typeof i&&setTimeout(
+function(b,c){return function(){a[e].q.length>b&&c()}}(a[e].q.length,i),f),a[e].q.push(
+arguments)},a[e].q=a[e].q||[],a[e].t=f,j=b.createElement(c),k=b.getElementsByTagName(c)[0],
+j.async=1,j.src=d,j.charset="utf-8",k.parentNode.insertBefore(j,k),a[e].s=~~new Date
+}(window,document,"script","//stat.i3.dmm.com/latest/js/dmm.tracking.min.js","i3",2000);
+i3('init', 'i3_2xcg3g');
+i3('create');
+i3('send', 'view', 'page');
+</script>
+
+<noscript>
+    <div class="hd-jsOff">
+        <a href="http://help.dmm.com/-/detail/=/qid=10105/" class="hd-jsOff__inner">
+            <p>JavaScriptを有効にしてください</p>
+            <span class="hd-bt__config">設定方法はこちら</span>
+        </a>
+    </div>
+</noscript><div id="top" class="hd-main">
+<div class="hd-main__left">
+    <div class="hd-main__menu">
+        <div class="hd-main__menu__item">
+            <a href="http://www.dmm.com/" class="hd-logo">
+                <img src="https://www.dmm.com/images/common/header/logo/logo_com.png" srcset="https://www.dmm.com/images/common/header/logo/logo_com.png 1x, https://www.dmm.com/images/common/header/logo/logo_com@2x.png 2x" alt="DMM.com" height="28">
+            </a>
+        </div>
+    </div>
+</div>
+
+
+<div class="hd-main__right">
+<!-- 検索BOX -->
+<!-- 検索BOX end -->
+    <ul class="hd-main__submenu">
+
+        <li class="hd-main__submenu__item">
+            <a href="http://help.dmm.com/" class="hd-nav hd-nav--help"><span class="hd-nav__txt">ヘルプ</span></a>
+        </li>
+
+<li class="hd-main__submenu__item hd-fn-floatnavi-target">
+    <span class="hd-nav hd-nav--basket hd-fn-floatnavi-icon"><span class="hd-nav__txt">バスケット</span></span>
+    <div class="hd-floatnavi hd-floatnavi--basket hd-fn-floatnavi-box">
+        <a href="http://www.dmm.com/top/basket/basket_html/=/ch_navi=none/" class="hd-nav hd-nav--basket hd-fn-floatnavi-icon"><span class="hd-nav__txt">バスケット</span></a>
+        <div class="hd-floatnavi__box">
+            <div class="hd-basket hd-basket--01">
+                <dl class="hd-defList">
+                    <dt class="hd-defList__ttl hd-ico hd-ico--digital">デジタル商品</dt>
+                    <dd class="hd-defList__box">
+                        <ul class="hd-links hd-links--arrow">
+                            <li class="hd-links__item">
+                                <a href="/digital/-/basket/" class="hd-links__link"><span class="hd-links__txt">動画</span></a>
+                            </li>
+                            <li class="hd-links__item">
+                                <a href="http://book.dmm.com/basket/" class="hd-links__link"><span class="hd-links__txt">電子書籍</span></a>
+                            </li>
+                            <li class="hd-links__item">
+                                <a href="http://dlsoft.dmm.com/basket/" class="hd-links__link"><span class="hd-links__txt">PCソフト</span></a>
+                            </li>
+                        </ul>
+                    </dd>
+                </dl>
+                <dl class="hd-defList">
+                    <dt class="hd-defList__ttl hd-ico hd-ico--mono">通販</dt>
+                    <dd class="hd-defList__box">
+                        <ul class="hd-links hd-links--arrow">
+                            <li class="hd-links__item">
+                                <a href="/mono/-/basket/" class="hd-links__link"><span class="hd-links__txt">通販</span></a>
+                            </li>
+                            <li class="hd-links__item">
+                                <a href="/mono/dmp/-/basket/" class="hd-links__link"><span class="hd-links__txt">マーケットプレイス</span></a>
+                            </li>
+                        </ul>
+                    </dd>
+                </dl>
+            </div>
+            <div class="hd-basket hd-basket--02">
+                <dl class="hd-defList">
+                    <dt class="hd-defList__ttl hd-ico hd-ico--rental">レンタル</dt>
+                    <dd class="hd-defList__box">
+                        <ul class="hd-links hd-links--arrow">
+                            <li class="hd-links__item">
+                                <a href="/rental/ppr/-/basket/" class="hd-links__link"><span class="hd-links__txt">DVD/CD</span></a>
+                            </li>
+                            <li class="hd-links__item">
+                                <a href="/rental/comic/-/basket/" class="hd-links__link"><span class="hd-links__txt">コミック</span></a>
+                            </li>
+                            <li class="hd-links__item">
+                                <a href="/rental/iroiro/-/basket/" class="hd-links__link"><span class="hd-links__txt">いろいろレンタル</span></a>
+                            </li>
+                        </ul>
+                    </dd>
+                </dl>
+                <dl class="hd-defList">
+                    <dt class="hd-defList__ttl hd-ico hd-ico--make">.make</dt>
+                    <dd class="hd-defList__box">
+                        <ul class="hd-links hd-links--arrow">
+                            <li class="hd-links__item">
+                                <a href="http://make.dmm.com/cart/" class="hd-links__link"><span class="hd-links__txt">3Dプリント</span></a>
+                            </li>
+                            <li class="hd-links__item">
+                                <a href="http://robots.dmm.com/basket" class="hd-links__link"><span class="hd-links__txt">ロボット</span></a>
+                            </li>
+                        </ul>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </div>
+</li>
+<li class="hd-main__submenu__item hd-fn-floatnavi-target d-translate">
+    <span class="hd-nav hd-nav--login hd-fn-floatnavi-icon"><span class="hd-nav__txt">ログイン</span></span>
+    <div class="hd-floatnavi hd-floatnavi--login hd-fn-floatnavi-box">
+        <span class="hd-nav hd-nav--login hd-fn-floatnavi-icon"><span class="hd-nav__txt">ログイン</span></span>
+        <div class="hd-floatnavi__box">
+            <div class="hd-my">
+                <div class="hd-my__login">
+                                    <a href="https://www.dmm.com/my/-/register/" class="hd-btn hd-btn--regist">会員登録</a>
+                                                    <a href="https://www.dmm.com/my/-/login/" class="hd-btn hd-btn--login">ログイン</a>
+                                </div>
+                <div class="hd-my__box hd-my__box--01">
+                    <dl class="hd-defList">
+                        <dt class="hd-defList__ttl hd-ico hd-ico--purchased">購入済み情報</dt>
+                        <dd class="hd-defList__box">
+                            <ul class="hd-links">
+                                <li class="hd-links__item">
+                                    <a href="/digital/-/mylibrary/=/page=1/" class="hd-links__link" id="click_digital"><span class="hd-links__txt">動画</span><span class="hd-links__tag">購入済み商品</span></a>
+                                </li>
+                                <li class="hd-links__item">
+                                    <a href="http://book.dmm.com/library/" class="hd-links__link" id="click_book"><span class="hd-links__txt">電子書籍</span><span class="hd-links__tag">購入済み商品</span></a>
+                                </li>
+                                <li class="hd-links__item">
+                                    <a href="http://dlsoft.dmm.com/mylibrary/" class="hd-links__link" id="click_dlsoft"><span class="hd-links__txt">PCソフト</span><span class="hd-links__tag">購入済み商品</span></a>
+                                </li>
+                                <li class="hd-links__item">
+                                    <a href="/rental/-/wishlist/" class="hd-links__link" id="click_rental"><span class="hd-links__txt">月額レンタル</span><span class="hd-links__tag">月額リスト</span></a>
+                                </li>
+                                <li class="hd-links__item">
+                                    <a href="https://www.dmm.com/rental/iroiro/-/order_list/" class="hd-links__link" id="click_iroiro"><span class="hd-links__txt">いろいろレンタル</span><span class="hd-links__tag">ご注文リスト</span></a>
+                                </li>
+                                <li class="hd-links__item">
+                                    <a href="/netgame/game/-/mylist/" class="hd-links__link" id="click_netgame"><span class="hd-links__txt">DMM GAMES</span><span class="hd-links__tag">マイゲーム</span></a>
+                                </li>
+                                <li class="hd-links__item">
+                                    <a href="/mono/-/order/" class="hd-links__link" id="click_mono"><span class="hd-links__txt">通販</span><span class="hd-links__tag">注文履歴</span></a>
+                                </li>
+                                <li class="hd-links__item">
+                                    <a href="https://yell.dmm.com/apps/my/" class="hd-links__link" id="click_yell"><span class="hd-links__txt">アイドル応援 DMM.yell</span><span class="hd-links__tag">マイページ</span></a>
+                                </li>
+                            </ul>
+                            <ul class="hd-links">
+                                <li class="hd-links__item">
+                                    <a href="/auction/-/situation/" class="hd-links__link" id="click_auction"><span class="hd-links__txt">オークション</span><span class="hd-links__tag">オークション履歴</span></a>
+                                </li>
+                                <li class="hd-links__item">
+                                    <a href="https://mvno.dmm.com/mypage/" class="hd-links__link" id="click_mvno"><span class="hd-links__txt">モバイル/格安スマホ</span><span class="hd-links__tag">マイページ</span></a>
+                                </li>
+                                <li class="hd-links__item">
+                                    <a href="https://hikari.dmm.com/mypage/" class="hd-links__link" id="click_hikari"><span class="hd-links__txt">DMM光 ネット回線</span><span class="hd-links__tag">マイページ</span></a>
+                                </li>
+                                <li class="hd-links__item">
+                                    <a href="https://make.dmm.com/mypage/my3d/" class="hd-links__link" id="click_make"><span class="hd-links__txt">make 3Dプリント</span><span class="hd-links__tag">マイ3Dページ</span></a>
+                                </li>
+                                <li class="hd-links__item">
+                                    <a href="https://robots.dmm.com/mypage/order" class="hd-links__link" id="click_robots"><span class="hd-links__txt">ロボット</span><span class="hd-links__tag">マイページ</span></a>
+                                </li>
+                                <li class="hd-links__item">
+                                    <a href="http://event.dmm.com/purchase_history" class="hd-links__link" id="click_event"><span class="hd-links__txt">イベント/チケット</span><span class="hd-links__tag">マイページ</span></a>
+                                </li>
+                                <li class="hd-links__item">
+                                    <a href="http://lounge.dmm.com/mylounge/" class="hd-links__link" id="click_lounge"><span class="hd-links__txt">オンラインサロン</span><span class="hd-links__tag">入会中サロン</span></a>
+                                </li>
+                            </ul>
+                        </dd>
+                    </dl>
+                </div>
+                <div class="hd-my__box hd-my__box--02">
+                    <dl class="hd-defList">
+                        <dt class="hd-defList__ttl hd-ico hd-ico--account">アカウント</dt>
+                        <dd class="hd-defList__box">
+                            <ul class="hd-links hd-links--arrow">
+                                <li class="hd-links__item">
+                                    <a href="http://www.dmm.com/my/-/top/" class="hd-links__link"><span class="hd-links__txt">お客様情報</span></a>
+                                </li>
+                            </ul>
+                        </dd>
+                    </dl>
+                    <dl class="hd-defList">
+                        <dt class="hd-defList__ttl hd-ico hd-ico--favorite">お気に入り</dt>
+                        <dd class="hd-defList__box">
+                            <ul class="hd-links hd-links--arrow">
+                                <li class="hd-links__item">
+                                    <a href="/digital/-/bookmark/" class="hd-links__link"><span class="hd-links__txt">動画</span></a>
+                                </li>
+                                <li class="hd-links__item">
+                                    <a href="http://book.dmm.com/bookmark/" class="hd-links__link"><span class="hd-links__txt">電子書籍</span></a>
+                                </li>
+                                <li class="hd-links__item">
+                                    <a href="http://dlsoft.dmm.com/bookmark/" class="hd-links__link"><span class="hd-links__txt">PCソフト</span></a>
+                                </li>
+                                <li class="hd-links__item">
+                                    <a href="/rental/-/bookmark/" class="hd-links__link"><span class="hd-links__txt">DVD/CDレンタル</span></a>
+                                </li>
+                                <li class="hd-links__item">
+                                    <a href="/mono/-/bookmark/" class="hd-links__link"><span class="hd-links__txt">通販</span></a>
+                                </li>
+                            </ul>
+                        </dd>
+                    </dl>
+                </div>
+            </div>
+        </div>
+    </div>
+</li>
+
+        <li class="hd-main__submenu__item">
+            <a href="http://www.dmm.com/service/-/exchange/=/url=DRVESVwZTkVPEh9cXltIVA5LXEYfTQtJTQ__/" class="hd-boxLink hd-boxLink--dmmr18"><span>DMM.R18へ</span></a>
+        </li>
+
+    </ul>
+</div>
+
+    <script type="text/javascript" src="/js/bugfix.js?1421734015"></script>
+    <script type="text/javascript" src="/js/head_parts_logo.js?1493014833"></script>
+    </div>
+<!-- /d-header --></div>
+<!--[if gte IE 7]></div><![endif]-->
+
+<div id="w">
+<div id="main-my" class="page-login d-rst">
+    
+    <div class="wrap">
+        <div class="area-login">
+            <p class="capt">ログイン</p>
+            <div class="sect">
+
+                <div class="box-account">
+                    <dl class="box">
+                        <dt>メールアドレス</dt>
+                        <dd>
+
+                        <form action="https://www.dmm.com/my/-/login/auth/" method="post" class="validator login">
+                            <input type="hidden" name="token" value="d8752aaebe9b3a4120e64623492ad911" id="id_token">                            <div class="box-id">
+                                <input type="text" name="login_id" id="login_id" placeholder="メールアドレス"  value="">
+                                <label for="save_login_id">
+                                    <input type="hidden" name="save_login_id" value="0"><input type="checkbox" name="save_login_id" id="save_login_id" value="1" class="checkbox">                                    <span class="checkbox-input"></span>
+                                    メールアドレスを保存する
+                                </label>
+                            </div>
+
+                            <div class="box-password">
+                                <input type="password" name="password" id="password" placeholder="パスワード" value="">
+                                <label for="save_password">
+                                    <input type="hidden" name="save_password" value="0"><input type="checkbox" name="save_password" id="save_password" value="1" class="checkbox">                                    <span class="checkbox-input"></span>
+                                    パスワードを保存する
+                                </label>
+                            </div>
+
+                            <noscript>
+                                <div class="box-txt-jsoff">
+                                    ログインするには、<br>JavaScriptを有効にしてください。<br>
+                                    <a href="http://help.dmm.com/-/detail/=/qid=10105/" target="_blank">設定方法はこちら</a>
+                                </div>
+                            </noscript>
+                            <div class="box-btn-login" id="loginbutton_script_on">
+                                <div class="box-txt-error"><p></p></div>
+                                <span class="btn-login btn"><input type="submit" value="ログイン" disabled="disabled"></span>
+                                <label for="use_auto_login">
+                                    <input type="hidden" name="use_auto_login" value="0"><input type="checkbox" name="use_auto_login" id="use_auto_login" value="1" class="checkbox">                                    <span class="checkbox-input"></span>
+                                    次回から自動でログインする
+                                </label>
+
+
+                            <ul class="box-subtxt">
+                                <li><a href="http://www.dmm.com/my/-/passwordreminder/" class="arrow">パスワードを忘れた方</a></li>
+                                <li><a href="http://help.dmm.com/-/detail/=/qid=10111/" class="arrow" target="_blank">ログインできない方</a></li>
+                                <li><a class="arrow" target="_blank" href="http://help.dmm.com/-/list/=/mid=101/sid=2">ヘルプ</a></li>
+                            </ul>
+
+                        </dd>
+                    </dl>
+                </div>
+
+                <span class="txt-or">or</span>
+
+                <div class="box-snsid">
+                    <dl class="box">
+                        <dt>他のサービスIDでログイン</dt>
+                        <dd>
+                            <ul>
+                                <li><a href="/my/-/social-login/=/sns_type=google/cancel_back_url=SgxJFksZDV1fDF8XDhkWVhUNC2VXADJtMyRvInQGb3YJVFJuClUqdX0dem1lUjNvBiN4c2UJL2o0L2E0AF16cjRRcmwRfDtwTx16/back_url=Sg9VTQFXDFcXFl5bWlcKGExKUVdUXgFNEU0KSVMVR28MBQ0BUwJZBwxK/" class="sns-links google"><span>Googleアカウントでログイン</span></a></li>
+                                <li><a href="/my/-/twitter/=/sns_type=twitter/cancel_back_url=SgxJFksZDV1fDF8XDhkWVhUNC2VXADJtMyRvInQGb3YJVFJuClUqdX0dem1lUjNvBiN4c2UJL2o0L2E0AF16cjRRcmwRfDtwTx16/back_url=Sg9VTQFXDFcXFl5bWlcKGExKUVdUXgFNEU0KSVMVR28MBQ0BUwJZBwxK/" class="sns-links twitter"><span>Twitterアカウントでログイン</span></a></li>
+                                <li><a href="/my/-/social-login/=/sns_type=facebook/cancel_back_url=SgxJFksZDV1fDF8XDhkWVhUNC2VXADJtMyRvInQGb3YJVFJuClUqdX0dem1lUjNvBiN4c2UJL2o0L2E0AF16cjRRcmwRfDtwTx16/back_url=Sg9VTQFXDFcXFl5bWlcKGExKUVdUXgFNEU0KSVMVR28MBQ0BUwJZBwxK/" class="sns-links facebook"><span>Facebookアカウントでログイン</span></a></li>
+                            </ul>
+                            <p class="box-subtxt">閲覧履歴・購入履歴等はタイムラインに反映されませんので、ご安心ください。</p>
+                        </dd>
+                    </dl>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="area-regist">
+            <p>DMMを初めてご利用になる方は、会員登録が必要です。</p>
+            <p><a href="https://www.dmm.com/my/-/register/=/back_url=Sg9VTQFXDFcXFl5bWlcKGExKUVdUXgFNEU0KSVMVR28MBQ0BUwJZBwxK/" class="btn-signup btn"><span>無料会員登録はこちら</span></a></p>
+        </div>
+
+<input type="hidden" name="path" value="Sg9VTQFXDFcXFl5bWlcKGExKUVdUXgFNEU0KSVMVR28MBQ0BUwJZBwxK">
+<input type="hidden" name="prompt" value="">
+<input type="hidden" name="client_id" value="">
+<input type="hidden" name="display" value="">
+
+</form>
+
+    </div>
+</div>
+
+<script>
+/* プレースホルダー用 JavaScript */
+(function() {
+    var placeholderJS = (function() {
+        var inputPlaceholderFlag = document.createElement('input').placeholder;
+
+        /**
+         * placeholderAction
+         * placeholderの表示・非表示アクション
+         */
+        var placeholderAction = {
+            /**
+             * hide
+             * thisの参照先をinputにしてください
+             */
+            hide: function() {
+                $(this).nextAll(".placeholder").hide();
+            },
+            /**
+             * show
+             * thisの参照先をinputにしてください
+             */
+            show: function() {
+                if ($(this).val() === "") {
+                    $(this).nextAll(".placeholder").show();
+                }
+            }
+        }
+
+        /**
+         * createPlaceholderElement
+         *
+         * @param {jQueryObject} $inputElement
+         * @param {string} str placeholder文字列
+         * @return {jQueryObject} $placeholderElement
+         */
+        function createPlaceholderElement($inputElement, str) {
+            var $placeholder = $('<span>', {
+                'class': 'placeholder'
+            }).append(str);
+
+            $inputElement.after($placeholder);
+
+            return $placeholder;
+        }
+
+        /**
+         * addEventPlaceholder
+         * placeholderにクリックイベントを付与する
+         *
+         * @param {jQueryObject} $placeholderElement
+         */
+        function addEventPlaceholder($placeholderElement) {
+            // placeholderはdisplay: none状態にする
+            // DOMContentLoaded後 input valueの値を取得し
+            // なにも表示されていなかった時にdisplay: noneを解除する
+            $placeholderElement.hide().click(function () {
+                $(this).prevAll("input").focus();
+            });
+        }
+
+        /**
+         * addEventInput
+         * inputにイベントを付与する
+         *
+         * @param {jQueryObject} $inputElement
+         */
+        function addEventInput($inputElement) {
+            $inputElement.focus(function () {
+                placeholderAction.hide.apply(this);
+            }).blur(function () {
+                placeholderAction.show.apply(this);
+            }).change(function () {
+                placeholderAction.show.apply(this);
+            }).on('DOMSubtreeModified propertychange', function() {
+                placeholderAction.hide.apply(this);
+            });
+
+            // 初期状態のplaceholderは display: none状態なので
+            // 何も入力されていなかった場合のみ表示させる
+            $(function() {
+                var val = $inputElement.val();
+
+                if(val === '') {
+                    placeholderAction.show.apply($inputElement[0]);
+                }
+            });
+        }
+
+        return {
+            /**
+             * createElement
+             * placeholderを作成します input placeholderに対応している場合は実行を終了する
+             * @param  {jQueryObject} $inputElement placeholderを挿入するinput
+             * @param  {string} str
+             */
+            createElement: function($inputElement, str) {
+                // input placeholderに対応していない場合のみ createPlaceholderElementを実行する
+                if(inputPlaceholderFlag !== undefined) {
+                    return;
+                }
+
+                var $placeholderElement = createPlaceholderElement($inputElement, str);
+                addEventPlaceholder($placeholderElement);
+                addEventInput($inputElement);
+            }
+        };
+    })();
+    placeholderJS.createElement($('form.validator #login_id'), 'メールアドレス');
+    placeholderJS.createElement($('form.validator #password'), 'パスワード');
+
+    var token = '';
+var idKey = '';
+var pwKey = '';
+
+$.ajax({
+    url: 'https://www.dmm.com/my/-/login/ajax-get-token/',
+    beforeSend: function( xhr ) {
+        xhr.setRequestHeader("DMM_TOKEN", "50c276d36d44ce315d1f6dffd448acae");
+    },
+    type: "POST",
+    async: false,
+    data: {
+        "token": "637890ec167d8b46a24c158e0fa0d53c"
+    },
+    dataType: "json",
+    success: function (data) {
+        token = data.token;
+        idKey = data.login_id;
+        pwKey = data.password;
+    },
+    error: function(res) {
+        alert("ページを更新して再度ログインを行ってください。");
+        return false;
+    }
+});
+
+$("form.login").submit(function() {
+    $("#id_token").attr("value", token);
+    $("form").append($("<input>", {type: "hidden", name: idKey, value: $("#login_id").val()}))
+    .append($("<input>", {type: "hidden", name: pwKey, value: $("#password").val()}));
+});
+    $('#loginbutton_script_on input').attr('disabled', false);
+    $("#loginbutton_script_on span").removeClass("d-btn-off");
+})();
+</script>
+
+<div class="area-footer">
+    <!-- ad-display script begin -->
+<div class="mg-b12 center">
+    <div id="footer-ad-container"></div>
+</div>
+<script type="text/javascript">
+//広告設置済みの場合true, 未設置の場合false
+var isFooterAd = false;
+
+$(function(){
+    //遅らせてレンダリング関数を実行する
+    setTimeout(insertAlternateFooterAd, 5000);
+});
+
+function createFooterBanner(ad)
+{
+    var img = document.createElement("img");
+    var link = document.createElement("a");
+    link.href = ad.clickUrl;
+
+    if (ad.creative.images && ad.creative.images[0]) {
+        //コンボクリエイティブの場合
+        if (ad.creative.content) {
+            for (contentIndex in ad.creative.content) {
+                //オプションが設定されている場合
+                switch (ad.creative.content[contentIndex].key) {
+                case "target":
+                    //管理画面でtargetの値を登録しないとcontent属性値が空配列になることに注意！
+                    link.target = ad.creative.content[contentIndex].value;
+                    break;
+                case "説明":
+                    //説明が登録されていたら代替テキストをセット
+                    img.alt = ad.creative.content[contentIndex].value;
+                    break;
+                default:
+                }
+            }
+        }
+
+        img.src = ad.creative.images[0].source;
+    } else {
+        //イメージクリエイティブの場合
+        img.src = ad.creative.source;
+
+        if (ad.creative.description) {
+            //説明が登録されていたら代替テキストをセット
+            img.alt = ad.creative.description;
+        }
+    }
+
+    link.appendChild(img);
+    return link;
+}
+
+//広告配信サーバへのリクエスト送信に対するコールバック関数
+function renderFooterAd(data, context) {
+    if (isFooterAd) return;
+    if (data && data.searchResult && data.searchResult.spaces && data.searchResult.spaces[0] && data.searchResult.spaces[0].ads) {
+        //広告スペースが存在する場合は広告オブジェクトを取得
+        var ads = data.searchResult.spaces[0].ads;
+        if (ads[0]) {
+            //フッターバナー
+            document.querySelector("#footer-ad-container").appendChild(createFooterBanner(ads[0]));
+            isFooterAd = true;
+        }
+    } else {
+        //登録バナーが足りないときやアドサーバ側のバグによって意図する広告を取得できなかった場合
+        insertAlternateFooterAd();
+    }
+}
+
+//サーバー、ネットワーク障害発生時に代替広告を表示
+function insertAlternateFooterAd()
+{
+    try {
+        if (isFooterAd) return;
+
+        var alternateAd = new Object();
+        alternateAd.creative = new Object();
+        alternateAd.creative.source = "https://www.dmm.com/images/bnr/ad/bottom/common_bottom_g.jpg";
+        alternateAd.clickUrl = "http://ad.dmm.com/ad/p/r?_site=242&_article=9743&_link=197000&_image=197084";
+        var adElement = createFooterBanner(alternateAd);
+
+        if (adElement) {
+            //広告枠が空であれば代替広告をセット
+            $("#footer-ad-container").append(adElement);
+            isFooterAd = true;
+        }
+    } catch (e) {
+        //何もしない
+    }
+}
+
+var cX = cX || {};
+cX.callQueue = cX.callQueue || [];
+cX.callQueue.push(['insertAdSpace', {
+    adSpaceId:'000000015fcc20fc',
+    baseAdDeliveryUrl:'http://display.dmm.com/adserver/search',
+    secureBaseAdDeliveryUrl:'https://display.dmm.com/adserver/search',
+    adUnitWidth:540,
+    adUnitHeight:70,
+    initialHorizontalAdUnits:1,
+    initialVerticalAdUnits:0,
+    renderFunction: renderFooterAd,
+}]);
+</script>
+    <div class="box-fofter-bnr">
+        <a href="http://www.dmm.com/info/inhibition/fictitious.html" target="_blank">
+            <img src="/images/top/banner/banner_fictitious.jpg" width="540" height="70">
+        </a>
+    </div>
+    <div class="box-fofter-bnr">
+        <a href="/top/info/safety/pretending_html/=/ch_navi=none/" target="_blank"><img src="https://www.dmm.com/images/top/banner/banner_reuse.jpg" width="540" height="70" alt=""></a>
+    </div>
+    <div id="verisign-box">
+        <div class="dp-item dp-boxexp" id="verisign-box">
+
+            <div class="info">
+                <div class="float-l mg-r12" id="verisign_seal">
+                        <script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.dmm.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=YES&amp;lang=ja"></script>
+                </div>
+                <p>ご登録内容は、シマンテックのIDを用いた暗号化処理により安全に送信されます。<br>
+                第三者にその情報が盗み見られる心配はありません。<br>
+                デジタルIDの使用は同時に弊社が実際にウェブ上に存在し、サービスを提供している事を保証するものです。</p>
+                <div class="clear"></div>
+            </div>
+            <div class="info safety">
+                <p><span class="red">[注意]</span> <a href="http://www.dmm.com/info/inhibition/fictitious.html" target="_blank">DMMを装った架空請求にご注意ください</a></p>
+                <p><span class="red">[注意]</span> <a href="http://www.dmm.com/top/info/safety/pretending_html/=/ch_navi=none/" target="_blank">他社サービスと同じパスワードをご利用の方へ</a></p>
+                <p><span class="red">[注意]</span> <a href="http://www.dmm.com/info/inhibition/rmt.html" target="_blank">会員アカウントの売買行為は禁止です</a></p>
+            </div>
+
+        </div>
+    </div>
+</div>
+</div>
+
+<div id="footer-my">
+<ul class="ft-nav">
+<li><a href="https://terms.dmm.com/profile/">会社概要</a></li>
+<li><a href="https://dmm-corp.com/press/">プレスリリース</a></li>
+<li><a href="https://terms.dmm.com/member/" rel="nofollow">会員規約</a></li>
+<li><a href="https://terms.dmm.com/privacy/" rel="nofollow">個人情報保護に関して</a></li>
+<li><a href="https://terms.dmm.com/commerce/" rel="nofollow">特定商取引法に基づく表示</a></li>
+<li><a href="https://dmm-corp.com/recruit/" target="_blank">スタッフ募集</a></li>
+<li class="last"><a href="https://terms.dmm.com/partner/">ビジネスパートナー募集</a></li>
+</ul>
+<address>Copyright &copy; since 1998 DMM All Rights Reserved.</address>
+</div>
+<!--[if IE 7]></div><![endif]-->
+</body>
+</html>
