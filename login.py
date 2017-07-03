@@ -60,8 +60,15 @@ data = { \
 	"bypassSpecCache" : "", \
 	"getFullHeaders" : "false" \
 }
-worldform = s.get('http://osapi.dmm.com/gadgets/makeRequest?' + '&'.join(['%s=%s' % (key, value) for (key, value) in data.items()]))
-worldre = re.search(r'\\"api_world_id\\":(\d+)',worldform.text)
+worldfound = False
+worldre = None
+while (not worldfound):
+	worldform = s.get('http://osapi.dmm.com/gadgets/makeRequest?' + '&'.join(['%s=%s' % (key, value) for (key, value) in data.items()]))
+	worldre = re.search(r'\\"api_world_id\\":(\d+)',worldform.text)
+	if (worldre):
+		worldfound = True
+	else:
+		time.sleep(10)
 servip = servers[int(worldre.group(1))-1]
 
 data = { \
