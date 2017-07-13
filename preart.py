@@ -4,13 +4,14 @@
 #   seasonal vs. new?
 #   upload imgur?
 
-import requests, pprint, time
+import requests, pprint, time, sqlite3
 
 shipfile = "sutsfoetiofu"
 
 s = requests.Session()
 ship = s.get("http://203.104.209.71/kcs/resources/swf/ships/" + shipfile + ".swf")
-if (ship.status_code == 200):
-	
-else:
-	time.sleep(5)
+while(true):
+	if (ship.status_code == 200):
+		break
+	else:
+		time.sleep(5)
