@@ -1,2 +1,5 @@
 configs.ini
 node_modules/
+test.py
+dump.txt
+api.txt
